@@ -117,5 +117,5 @@ Coach """.format(guardian, name, date_in_10))
 
 
 if __name__ == "__main__":
-    main()
+    main()                                              # Calling the main function
 
